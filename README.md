@@ -1,9 +1,9 @@
 ## Erik Valle
 Connect with me on 🏢 [LinkedIn](https://www.linkedin.com/in/erik-v-499345141/)
 
-## Technical test Elekta
+## Technical test
 
-Your task is to write a C++ program that loads a point cloud from a given .pcd file, detects all spheres within the cloud, and groups them into N clusters based on their spatial distance. You may use computer vision libraries as needed. This task is to be completed independently.
+Develop a C++ project that loads a point cloud from a designated .pcd file, detects all spheres within the cloud, and groups them into N clusters based on their spatial closeness. 
 
 ## Dependencies
 - C++17
